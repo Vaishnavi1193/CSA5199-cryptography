@@ -65,3 +65,10 @@ int main() {
  
  return 0; 
 }
+OUTPUT:
+Affine Cipher Parameters:
+a = 7
+b = 12
+Inverse of a = 15
+Plaintext:
+YEQX_GSTDKXBKJB_DKXK
