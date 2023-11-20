@@ -67,3 +67,11 @@ int i;
  printf("Decrypted Text: %s\n", decryptedText);
  return 0;
 }
+OUTPUT:
+Enter the plaintext: goodmorning
+Enter the value of 'a' (must be coprime to 26): 7
+Enter the value of 'b': 5
+Encrypted Text: vzzalzusjsv
+
+Decrypting...
+Decrypted Text: goodmorning
