@@ -53,3 +53,4 @@ int main() {
     decryptPlayfair(matrix, message, messageLength);
 
     return 0;
+}
